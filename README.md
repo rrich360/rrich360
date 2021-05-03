@@ -1,7 +1,7 @@
 ### Hi there, I'm Roger Richards 👋
 
 ![shutterstock_1474930040 (1)](https://user-images.githubusercontent.com/20470279/116913551-a1942d00-ac17-11eb-9be8-471ecf094e8d.jpg)
-
+ 
 
 A creative and meticulous Software Engineer with 5 years of experience in developing effective software solutions. I have utilized 
 standard methodology and statistical tools to analyze, manipulate, and interpret large sets of client data. I am eager to join
