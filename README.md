@@ -1,6 +1,6 @@
 ### Hi there, I'm Roger Richards 👋
 
-![GithubLogo](https://user-images.githubusercontent.com/20470279/116918387-d4412400-ac1d-11eb-9eaa-254abe7ba947.jpg)
+![RogRichGithub](https://user-images.githubusercontent.com/20470279/116919369-2d5d8780-ac1f-11eb-94ef-d34b4af7e866.jpg)
  
 
 A creative and meticulous Software Engineer with 5 years of experience in developing effective software solutions. I have utilized 
