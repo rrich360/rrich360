@@ -19,3 +19,7 @@ thread-safe solutions for caching. Closely collaborated with team members to ide
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love art and I created my first logo in 2012 for a mid-size company called Mobile Solutions. The logo also consisted of     using stencils with acrylic spray paint.. 
 -->
+<p float="center">
+ 
+![StencilIsChallenging](https://user-images.githubusercontent.com/20470279/116949884-78908e00-ac51-11eb-98d3-b43abb9c5b35.png) ![MS1](https://user-images.githubusercontent.com/20470279/116950121-1dab6680-ac52-11eb-8070-c3b00f9405ca.png) ![GraffitiIsLife](https://user-images.githubusercontent.com/20470279/116950268-7bd84980-ac52-11eb-82d4-7e8ccdf509f8.png) ![MS2](https://user-images.githubusercontent.com/20470279/116950364-cce83d80-ac52-11eb-920c-db2b872c34e9.png) 
+</p>
