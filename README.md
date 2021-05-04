@@ -17,7 +17,7 @@ thread-safe solutions for caching. Closely collaborated with team members to ide
 - 💬 Ask me about anything relating to web development, Java applications, and react packages like router, buildStyles or Download Link.
 - 📫 How to reach me: Roger.Richards07@gmail.com or https://www.linkedin.com/in/roger-richards-466358135/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love art and I created my first logo in 2012 for a mid-size company called Mobile Solutions. The logo also consisted of     using stencils with acrylic spray paint.. 
+- ⚡ Fun fact: I love art. I established my first official business deal in 2012 with a mid-size company called Mobile Solutions. I painted two of the same logo inside the establishment. Materials used in this project consisted of stencils, a projector, cardboard for shaping, and 20 cans of acrylic spray paint compliments of Binders Art Supplies. 
 -->
 <p float="center">
  
