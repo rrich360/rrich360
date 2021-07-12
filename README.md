@@ -10,10 +10,11 @@ thread-safe solutions for caching. Closely collaborated with team members to ide
 
 # Some things to know about me:
 
-- 🔭 I’m currently working on reactjs portfolio website to deploy on AWS.
+- 🔭 I recently completed my reactjs portfolio website and will be deploying via AWS soon.
+- I rececntly completed a reactjs Flash Cards app used for studying notes and will be uploading via Github soon.
 - 🌱 I’m currently learning react js and react native to build web and mobile full stack applications.
 - 👯 I’m looking to collaborate on software development projects.
-- 🤔 I’m looking for help with how to deploy react js website on AWS.
+- 🤔 I’m looking for help with how to deploy Flash Cards app via AWS.
 - 💬 Ask me about anything relating to web development, Java applications, and react packages like router, buildStyles or Download Link.
 - 📫 How to reach me: Roger.Richards07@gmail.com or https://www.linkedin.com/in/roger-richards-466358135/
 - 😄 Pronouns: he/him
