@@ -16,7 +16,7 @@ thread-safe solutions for caching. Closely collaborated with team members to ide
 - 👯 I’m looking to collaborate on software development projects.
 - 🤔 I’m looking for help with how to deploy Flash Cards app via AWS.
 - 💬 Ask me about anything relating to web development, Java applications, and react packages like router, buildStyles or Download Link.
-- 📫 How to reach me: Roger.Richards07@gmail.com or https://www.linkedin.com/in/roger-richards-466358135/
+- 📫 How to reach me: https://www.linkedin.com/in/roger-richards-466358135/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love art. I established my first official business deal in 2012 with a mid-size company called Mobile Solutions. I spray painted two of the same logo, but different sizes on inside of the establishment. I drew the logo on a stencil and displayed it on the wall from my projector. I used a piece of cardboard to spray paint the letters in the font the client requested. It took about 20 cans of acrylic spray paint.. compliments of Binders Art Supplies. 
 -->
