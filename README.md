@@ -18,7 +18,7 @@ thread-safe solutions for caching and scripts for purging storage data. Closely 
 - 💬 Ask me about anything relating to Art, web development, Java applications, and react packages like router, buildStyles or Download Link.
 - 📫 How to reach me: https://www.linkedin.com/in/roger-richards-466358135/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love art. I established my first official business deal in 2012 with a mid-size company called Mobile Solutions. I spray painted two of the same logo, but different sizes on inside of the establishment. I drew the logo on a stencil and displayed it on the wall from my projector. I used a piece of cardboard to spray paint the letters in the font the client requested. It took about 20 cans of acrylic spray paint.. compliments of Binders Art Supplies. 
+- ⚡ Fun fact: I love art. I established my first official business deal in 2012 with a mid-size company called Mobile Solutions. I spray painted two of the same logo, but different sizes on inside of the establishment. I drew the logo on a stencil and displayed it on the wall from my projector. I used a piece of cardboard and painter's tape to help form the letters then I spray painted them into the font/color the client requested. It took about 20 cans of acrylic spray paint.. compliments of Binders Art Supplies. 
 -->
 <p float="center">
  
