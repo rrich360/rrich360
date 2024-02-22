@@ -3,19 +3,16 @@
 ![RogRichGithub](https://user-images.githubusercontent.com/20470279/116919369-2d5d8780-ac1f-11eb-94ef-d34b4af7e866.jpg)
  
 
-A creative and meticulous Software Engineer with 8 years of experience in developing effective software solutions. I have utilized 
-standard methodology and statistical tools to analyze, manipulate, and interpret large sets of client data. I am eager to join
-a company to bring in top-class problem-solving skills. In previous roles, such as reducing mobile app memory consumption by 30% with 
-thread-safe solutions for caching and scripts for purging storage data. Closely collaborated with team members to identify and resolve issues while debugging code.
+A creative and meticulous technology professional with a proven track record of developing effective software solutions.  I closely collaborate with team members to identify and quickly resolve defects in code while debugging.  I have utilized standard methodology and statistical tools to analyze, manipulate, and interpret large sets of client data. I am responsible for providing top-class problem-solving skills, which benefit the client and my team.
 
 # Some things to know about me:
 
 - 🔭 I recently completed my reactjs portfolio website and will be deploying via AWS soon.
-- I rececntly completed a reactjs Flash Cards app used for studying notes and will be uploading via Github soon.
-- 🌱 I have become familiar with Angular, react js and react native framework while developing web and mobile full stack applications.
+- I recently helped my scrum team develop and deploy the FAFSA Income-driven repayment plan web app for the U.S Department of Education.
+- https://www.cnn.com/2023/07/30/politics/biden-student-loan-repayment-plan/index.html
+- 🌱 While working with Accenture Federal, I have gained maturation in skill sets pertaining to agile development with web and mobile full stack application.
 - 👯 I’m looking to collaborate on software development projects.
-- 🤔 I’m looking for help with how to deploy Flash Cards app via AWS.
-- 💬 Ask me about anything relating to Art, web development, Java applications, and react packages like router, buildStyles or Download Link.
+- 💬 Ask me about anything relating to Web App development, Java applications, Art work, and Android development.
 - 📫 How to reach me: https://www.linkedin.com/in/roger-richards-466358135/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love art. I established my first official business deal in 2012 for a LLC called Mobile Solutions. I completed a mid-sized and large-sized version of the same logo, which were located in the lobby and car garage of the car dealer shop. I drew the logo on a stencil and displayed it on the wall from my projector. I used a piece of cardboard and painter's tape to help form the letters then spray painted them into the font/color the client requested. It took about 20 cans of acrylic spray paint.. compliments of Binders Art Supplies. 
