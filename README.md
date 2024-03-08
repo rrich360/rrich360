@@ -7,7 +7,6 @@ A creative and meticulous technology professional with a proven track record of 
 
 # Some things to know about me:
 
-- 🔭 I recently completed my reactjs portfolio website and will be deploying via AWS soon.
 - I recently helped my scrum team develop and deploy the FAFSA Income-driven repayment plan web app for the U.S Department of Education.
 - https://www.cnn.com/2023/07/30/politics/biden-student-loan-repayment-plan/index.html
 - 🌱 While working with Accenture Federal, I have gained maturation in skill sets pertaining to agile development with web and mobile full stack application.
