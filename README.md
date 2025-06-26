@@ -14,7 +14,7 @@ A creative and meticulous technology professional with a proven track record of 
 - https://www.cnn.com/2023/07/30/politics/biden-student-loan-repayment-plan/index.html
 - 🌱 While working with Accenture Federal, I have continued to grow maturation in my skill sets pertaining to agile development, Angular, and Android development.
 - 💬 Ask me about anything relating to Logo design, Web App development, Java, Angular, React and Android development.
-- 📫 How to reach me: https://www.linkedin.com/in/roger-richards-466358135/
+- 📫 How to reach me: https://www.linkedin.com/in/roger-s-richards/
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love software development, but I also love art. I established my first contract in 2012 for an LLC, Mobile Solutions. I spray painted two logos, which were located in the lobby and car garage of the car dealer shop. I drew the logo on a stencil and used my projector to spray paint the image from the stencil. I used a piece of cardboard and painter's tape to help form the letters then carved out the logo prior to spray painting them into the font/color the client requested. It took about 20 cans of acrylic spray paint.. compliments of Binders Art Supplies and two weeks to complete the job. 
 -->
