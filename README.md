@@ -8,7 +8,8 @@ A creative and meticulous technology professional with a proven track record of 
 # Some things to know about me:
 
 - 🌱 I am enrolled in the AWS Cloud Institute | Certificaiton and Training program to become Cloud certified in AWS.
-- I recently completed a Full Stack Angular project with Spring Security and JWT Authentication.
+- I recently completed a Full Stack Angular demo project with Spring Security and JWT Authentication. If you would like to check out the details please visit the following link:
+- https://medium.com/@roger.richards07/implementing-json-web-token-jwt-authentication-using-spring-boot-and-mysql-a-detailed-8ba1e152e91d
 - I helped to develop and deploy the FAFSA Income-driven repayment plan web app for the U.S Department of Education while working with Accentue Federal Services.
 - https://www.cnn.com/2023/07/30/politics/biden-student-loan-repayment-plan/index.html
 - 🌱 While working with Accenture Federal, I have continued to grow maturation in my skill sets pertaining to agile development, Angular, and Android development.
