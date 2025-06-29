@@ -16,7 +16,7 @@ A creative and meticulous technology professional with a proven track record of 
 - 💬 Ask me about anything relating to Logo design, Web App development, Java, Angular, React and Android development.
 - 📫 How to reach me: https://www.linkedin.com/in/roger-s-richards/
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love software development, but I also love art. I established my first contract in 2012 for an LLC, Mobile Solutions. I spray painted two logos, which were located in the lobby and car garage of the car dealer shop. I drew the logo on a stencil and used my projector to spray paint the image from the stencil. I used a piece of cardboard and painter's tape to help form the letters then carved out the logo prior to spray painting them into the font/color the client requested. It took about 20 cans of acrylic spray paint.. compliments of Binders Art Supplies and two weeks to complete the job. 
+- ⚡ Fun fact: I enjoy software development, but I also love art. I established my first contract in 2012 to create two business logos for an LLC called Mobile Solutions located in Stone Mountain, GA on Lawrenceville Highway. I spray painted them in the lobby and garage area of the car shop. Initially, I drew the logo on a stencil, cut out the stencil, and used my projector to display/enlarge the image of the stencil onto the wall. I used painter's tape on the wall to carve out the letters of the logo image on the wall. Lastly, I spray painted the logo with the color the client requested. It took about two weeks to complete and 20 cans of acrylic spray paint... compliments of Binders Art Supplies. 
 -->
 <p float="center">
  
